@@ -1,1 +1,1 @@
-# python
+# LeetCode Practice "Easy" Difficulty 
